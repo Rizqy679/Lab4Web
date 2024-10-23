@@ -20,4 +20,7 @@ Dengan memperlihatkan portofolionya, Hiqqygaya ingin menunjukkan bahwa dia adala
 
 3. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
-![alt text](https://github.com/Rizqy679/Lab4Web/blob/main/TUGAS%201%20LAB4.jpg)
+
+![alt text](https://github.com/Rizqy679/Lab4Web/blob/main/TUGAS%202%20LAB4.jpg)
+
+Formulir ini memungkinkan pengunjung website untuk menghubungi pemilik website dengan memberikan nama, alamat email, pesan dan metode kontak favorit mereka. Pengunjung dapat memilih email sebagai metode kontak favorit. Setelah mengisi semua informasi, pengunjung dapat mengklik tombol "Kirim" untuk mengirimkan formulir tersebut.
